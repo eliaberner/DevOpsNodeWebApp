@@ -7,7 +7,7 @@ on:
       - 'release'
 
 env:
-  AZURE_WEBAPP_NAME: devops-elia-helloworld
+  AZURE_WEBAPP_NAME: devops-container-bereli01
 
 jobs:
   docker-build-and-push:
